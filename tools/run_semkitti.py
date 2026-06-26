@@ -392,7 +392,7 @@ class App:
         )
 
         args.label_root = os.path.join(
-            args.data_root,
+            args.label_root,
             args.sequence,
             "labels",
         )
