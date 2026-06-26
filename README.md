@@ -153,6 +153,10 @@ Cylinder3D를 선택한 이유는 다음과 같다.
 
 Cylinder3D는 Point Cloud를 원통 좌표계로 변환한 후 Sparse 3D Convolution을 수행하는 Semantic Segmentation 모델이다.
 
+<p align="center">
+  <img src="assets/model.png" width="1000">
+</p>
+
 ### Input
 
 ```text
