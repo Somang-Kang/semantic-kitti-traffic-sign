@@ -289,7 +289,14 @@ vcc    : Voxel Connected Components
 
 Open3D Viewer를 통해 프레임 단위 결과를 확인할 수 있다.
 
-<p align="center"> <video src="assets/interactive_viewer.mp4" width="900" controls></video> </p>
+
+<p align="center">
+    <img src="assets/interactive_viewer.gif" width="1000">
+</p>
+
+<p align="center">
+    <img src="assets/viewer_overview.gif" width="1000">
+</p>
 
 ```text
 A : Previous Frame
